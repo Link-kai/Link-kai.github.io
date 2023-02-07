@@ -4,7 +4,7 @@
 
 # Site
 title: 'Link的博客'
-subtitle: '副标题'
+subtitle: '年轻且优秀'
 description: '欢迎访问kk的blog'
 keywords: Link,博客,blog
 author: Link
@@ -105,3 +105,17 @@ deploy:
   type: 'git'
   repo: 'https://github.com/Link-kai/Link-kai.git'
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+  limit: 20
+
+  # 站点地图
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
