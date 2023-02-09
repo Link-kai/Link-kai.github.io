@@ -113,7 +113,7 @@ search:
   format: html
   limit: 20
 
-  # 站点地图
+# 站点地图
 sitemap:
   path: sitemap.xml
 baidusitemap:

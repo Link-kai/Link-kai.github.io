@@ -24,9 +24,9 @@ menu:
   社交||fa-solid fa-handshake:
     碎碎念: /bb/ || fas fa-list
     留言板: /comments/ || fa-solid fa-pen-to-square
-    友链: /link/ || fas fa-link
+    友链: /link/ || fas fa-box
 #  About: /about/ || fas fa-heart恋爱小屋fas fa-box
-#<i class="fa-solid fa-treasure-chest"></i>
+#<i class="fa-solid fa-treasure-chest"></i>fas fa-link
 
 nav:
   logo: "./img/build/K.png" # image
@@ -779,7 +779,7 @@ readmode: true
 
 # dark mode
 darkmode:
-  enable: true
+  enable: false
   # Toggle Button to switch dark/light mode
   button: true
   # Switch dark/light mode automatically (自動切換 dark mode和 light mode)
