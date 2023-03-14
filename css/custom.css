@@ -424,3 +424,9 @@ div#archive {
     top: -8px
 }
 /* --------------------------------------
+
+/* 自定义加载动画 */
+.loading-img {
+  background: url(https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220804141141.jpg) no-repeat center center;
+  background-size: cover;
+}
