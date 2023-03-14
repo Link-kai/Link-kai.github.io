@@ -552,3 +552,39 @@ div#archive {
   }
 }
 /* --------------------------------------
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(73, 177, 245, 0.2);
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--theme-color);
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(16, 22, 114, 0.5) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(27, 19, 134, 0.473) 50%,
+    rgba(15, 23, 95, 0.4) 75%,
+    transparent 75%,
+    transparent
+  );
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: var(--theme-color);
+}
+/* --------------------------------------
