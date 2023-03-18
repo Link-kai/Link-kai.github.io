@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "gulp": "^4.0.2",
-    "hexo": "^5.0.0",
+    "hexo": "^6.3.0",
     "hexo-baidu-url-submit": "^0.0.6",
     "hexo-butterfly-clock-anzhiyu": "^1.1.8",
     "hexo-butterfly-wowjs": "^1.0.5",
