@@ -17,7 +17,7 @@
     "hexo-baidu-url-submit": "^0.0.6",
     "hexo-butterfly-clock-anzhiyu": "^1.1.8",
     "hexo-butterfly-wowjs": "^1.0.5",
-    "hexo-deployer-git": "^3.0.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-filter-nofollow": "^2.0.2",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-baidu-sitemap": "^0.1.9",
