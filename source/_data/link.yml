@@ -3,7 +3,7 @@
   link_list:
     - name: WA_automat
       link: https://wa-automat.github.io
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/WA_automat.jpg
       descr: SCNU唯一真神
 
 - class_name: 个人相关网站
@@ -11,15 +11,15 @@
   link_list:
     - name: 洛谷
       link: https://www.luogu.com.cn/user/679327
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/luogu.jpg
       descr: 小学生社区
     - name: Github
       link: https://github.com/Link-kai
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/GitHub.jpg
       descr: 代码托管平台
     - name: 贴吧
-      link: https://tieba.baidu.com/home/main?un=kk%E4%B8%8B%E8%BD%AF%E4%BB%B6&fr=home&id=tb.1.b5394e33.lHVxnkcx4Z4q5rYfZ7vC2Q
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      link: https://tieba.baidu.com/
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/baidu_tb.jpg
       descr: 男厕所
 
 - class_name: 构建博客网站
@@ -27,13 +27,13 @@
   link_list:
     - name: Hexo
       link: https://hexo.io/zh-cn/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/hexo.jpg
       descr: Hexo博客框架
     - name: Butterfly
       link: https://butterfly.js.org/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/Butterfly.jpg
       descr: Butterfly主题文档
-    - name: 花猪
-      link: https://cnhuazhu.top/butterfly/
-      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+    - name: Fomalhaut
+      link: https://www.fomal.cc/
+      avatar: https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/Fomalhaut.jpg
       descr: 博客样式参考
