@@ -155,6 +155,20 @@
 
   
   <url>
+    <loc>http://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B-%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2023-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2023-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://link-kai.github.io/tags/SLAM/</loc>
     <lastmod>2023-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -176,21 +190,7 @@
   </url>
   
   <url>
-    <loc>http://link-kai.github.io/tags/%E4%B8%89%E7%BB%B4%E7%82%B9%E4%BA%91/</loc>
-    <lastmod>2023-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B-%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2023-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/%E4%BB%BB%E5%8A%A1/</loc>
+    <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2023-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -211,6 +211,13 @@
   </url>
   
   <url>
+    <loc>http://link-kai.github.io/tags/%E4%BB%BB%E5%8A%A1/</loc>
+    <lastmod>2023-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://link-kai.github.io/tags/cv/</loc>
     <lastmod>2023-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,14 +225,7 @@
   </url>
   
   <url>
-    <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2023-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
+    <loc>http://link-kai.github.io/tags/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2023-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -239,7 +239,7 @@
   </url>
   
   <url>
-    <loc>http://link-kai.github.io/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://link-kai.github.io/tags/%E4%B8%89%E7%BB%B4%E7%82%B9%E4%BA%91/</loc>
     <lastmod>2023-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
