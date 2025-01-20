@@ -218,6 +218,13 @@
 
   
   <url>
+    <loc>http://link-kai.github.io/tags/C/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,28 +239,7 @@
   </url>
   
   <url>
-    <loc>http://link-kai.github.io/tags/C/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/%E4%BB%BB%E5%8A%A1/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://link-kai.github.io/tags/SLAM/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -274,14 +260,7 @@
   </url>
   
   <url>
-    <loc>http://link-kai.github.io/tags/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://link-kai.github.io/tags/SLAM/</loc>
+    <loc>http://link-kai.github.io/tags/%E4%BB%BB%E5%8A%A1/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -295,7 +274,28 @@
   </url>
   
   <url>
+    <loc>http://link-kai.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://link-kai.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://link-kai.github.io/tags/NLP/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://link-kai.github.io/tags/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -311,14 +311,14 @@
 
   
   <url>
-    <loc>http://link-kai.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <loc>http://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://link-kai.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
