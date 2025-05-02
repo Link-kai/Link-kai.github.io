@@ -3,11 +3,11 @@
   <title>Link的博客</title>
   
   <subtitle>年轻且优秀</subtitle>
-  <link href="https://link-kai.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.lin-kai.top/atom.xml" rel="self"/>
   
-  <link href="https://link-kai.github.io/"/>
+  <link href="https://blog.lin-kai.top/"/>
   <updated>2025-01-26T08:46:17.093Z</updated>
-  <id>https://link-kai.github.io/</id>
+  <id>https://blog.lin-kai.top/</id>
   
   <author>
     <name>Link</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>SCAU机器人技术</title>
-    <link href="https://link-kai.github.io/2025/01/12/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/"/>
-    <id>https://link-kai.github.io/2025/01/12/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/</id>
+    <link href="https://blog.lin-kai.top/2025/01/12/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/"/>
+    <id>https://blog.lin-kai.top/2025/01/12/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/SCAU%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF/</id>
     <published>2025-01-12T09:00:00.000Z</published>
     <updated>2025-01-26T08:46:17.093Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>SCAU编译原理实验</title>
-    <link href="https://link-kai.github.io/2025/01/11/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
-    <id>https://link-kai.github.io/2025/01/11/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/</id>
+    <link href="https://blog.lin-kai.top/2025/01/11/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
+    <id>https://blog.lin-kai.top/2025/01/11/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/SCAU%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/</id>
     <published>2025-01-11T10:30:00.000Z</published>
     <updated>2025-01-26T08:45:53.590Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>SCAU汇编实验</title>
-    <link href="https://link-kai.github.io/2025/01/10/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/"/>
-    <id>https://link-kai.github.io/2025/01/10/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/</id>
+    <link href="https://blog.lin-kai.top/2025/01/10/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/"/>
+    <id>https://blog.lin-kai.top/2025/01/10/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/SCAU%E6%B1%87%E7%BC%96%E5%AE%9E%E9%AA%8C/</id>
     <published>2025-01-10T14:00:00.000Z</published>
     <updated>2025-05-01T17:09:23.604Z</updated>
     
@@ -72,17 +72,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>操作系统</title>
-    <link href="https://link-kai.github.io/2024/04/07/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    <id>https://link-kai.github.io/2024/04/07/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://blog.lin-kai.top/2024/04/07/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://blog.lin-kai.top/2024/04/07/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
     <published>2024-04-07T05:00:00.000Z</published>
     <updated>2025-01-26T08:38:51.911Z</updated>
     
@@ -93,17 +93,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>SCAU统计学实验</title>
-    <link href="https://link-kai.github.io/2024/04/01/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/"/>
-    <id>https://link-kai.github.io/2024/04/01/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/</id>
+    <link href="https://blog.lin-kai.top/2024/04/01/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/"/>
+    <id>https://blog.lin-kai.top/2024/04/01/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/SCAU%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%AE%9E%E9%AA%8C/</id>
     <published>2024-04-01T01:00:00.000Z</published>
     <updated>2025-01-26T08:44:59.774Z</updated>
     
@@ -114,17 +114,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>SCAU转专业_计算机系</title>
-    <link href="https://link-kai.github.io/2024/03/17/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/"/>
-    <id>https://link-kai.github.io/2024/03/17/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/</id>
+    <link href="https://blog.lin-kai.top/2024/03/17/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/"/>
+    <id>https://blog.lin-kai.top/2024/03/17/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/SCAU%E8%BD%AC%E4%B8%93%E4%B8%9A_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB/</id>
     <published>2024-03-17T10:00:00.000Z</published>
     <updated>2025-02-18T10:42:11.703Z</updated>
     
@@ -135,17 +135,17 @@
     
     
     
-    <category term="生活" scheme="https://link-kai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.lin-kai.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="转专业" scheme="https://link-kai.github.io/tags/%E8%BD%AC%E4%B8%93%E4%B8%9A/"/>
+    <category term="转专业" scheme="https://blog.lin-kai.top/tags/%E8%BD%AC%E4%B8%93%E4%B8%9A/"/>
     
   </entry>
   
   <entry>
     <title>C++ STL 学习</title>
-    <link href="https://link-kai.github.io/2023/11/16/C++%20STL%20%E5%AD%A6%E4%B9%A0/C++%20STL%20%E5%AD%A6%E4%B9%A0/"/>
-    <id>https://link-kai.github.io/2023/11/16/C++%20STL%20%E5%AD%A6%E4%B9%A0/C++%20STL%20%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://blog.lin-kai.top/2023/11/16/C++%20STL%20%E5%AD%A6%E4%B9%A0/C++%20STL%20%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blog.lin-kai.top/2023/11/16/C++%20STL%20%E5%AD%A6%E4%B9%A0/C++%20STL%20%E5%AD%A6%E4%B9%A0/</id>
     <published>2023-11-16T10:00:00.000Z</published>
     <updated>2025-01-26T08:38:20.263Z</updated>
     
@@ -156,17 +156,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="C++" scheme="https://link-kai.github.io/tags/C/"/>
+    <category term="C++" scheme="https://blog.lin-kai.top/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>基于 BOW 的随机森林分类</title>
-    <link href="https://link-kai.github.io/2023/08/29/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/"/>
-    <id>https://link-kai.github.io/2023/08/29/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/</id>
+    <link href="https://blog.lin-kai.top/2023/08/29/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/"/>
+    <id>https://blog.lin-kai.top/2023/08/29/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/%E5%9F%BA%E4%BA%8E%20BOW%20%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E5%88%86%E7%B1%BB/</id>
     <published>2023-08-29T02:00:00.000Z</published>
     <updated>2025-01-26T08:37:48.718Z</updated>
     
@@ -177,17 +177,17 @@
     
     
     
-    <category term="项目" scheme="https://link-kai.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="https://blog.lin-kai.top/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="NLP" scheme="https://link-kai.github.io/tags/NLP/"/>
+    <category term="NLP" scheme="https://blog.lin-kai.top/tags/NLP/"/>
     
   </entry>
   
   <entry>
     <title>利用colmap实现基于图像的三维重建</title>
-    <link href="https://link-kai.github.io/2023/07/16/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/"/>
-    <id>https://link-kai.github.io/2023/07/16/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/</id>
+    <link href="https://blog.lin-kai.top/2023/07/16/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/"/>
+    <id>https://blog.lin-kai.top/2023/07/16/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/%E5%88%A9%E7%94%A8colmap%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/</id>
     <published>2023-07-16T07:00:00.000Z</published>
     <updated>2025-01-26T09:21:58.775Z</updated>
     
@@ -198,17 +198,17 @@
     
     
     
-    <category term="项目" scheme="https://link-kai.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="https://blog.lin-kai.top/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="三维点云" scheme="https://link-kai.github.io/tags/%E4%B8%89%E7%BB%B4%E7%82%B9%E4%BA%91/"/>
+    <category term="三维点云" scheme="https://blog.lin-kai.top/tags/%E4%B8%89%E7%BB%B4%E7%82%B9%E4%BA%91/"/>
     
   </entry>
   
   <entry>
     <title>SLAM学习</title>
-    <link href="https://link-kai.github.io/2023/07/06/SLAM%E5%AD%A6%E4%B9%A0/SLAM%E5%AD%A6%E4%B9%A0/"/>
-    <id>https://link-kai.github.io/2023/07/06/SLAM%E5%AD%A6%E4%B9%A0/SLAM%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://blog.lin-kai.top/2023/07/06/SLAM%E5%AD%A6%E4%B9%A0/SLAM%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blog.lin-kai.top/2023/07/06/SLAM%E5%AD%A6%E4%B9%A0/SLAM%E5%AD%A6%E4%B9%A0/</id>
     <published>2023-07-06T09:00:00.000Z</published>
     <updated>2025-01-26T08:29:15.243Z</updated>
     
@@ -219,17 +219,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="SLAM" scheme="https://link-kai.github.io/tags/SLAM/"/>
+    <category term="SLAM" scheme="https://blog.lin-kai.top/tags/SLAM/"/>
     
   </entry>
   
   <entry>
     <title>Hexo转移至新电脑</title>
-    <link href="https://link-kai.github.io/2023/07/03/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/"/>
-    <id>https://link-kai.github.io/2023/07/03/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/</id>
+    <link href="https://blog.lin-kai.top/2023/07/03/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/"/>
+    <id>https://blog.lin-kai.top/2023/07/03/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/Hexo%E8%BD%AC%E7%A7%BB%E8%87%B3%E6%96%B0%E7%94%B5%E8%84%91/</id>
     <published>2023-07-02T16:00:00.000Z</published>
     <updated>2025-01-26T08:21:19.389Z</updated>
     
@@ -240,17 +240,17 @@
     
     
     
-    <category term="项目" scheme="https://link-kai.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="https://blog.lin-kai.top/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="开发" scheme="https://link-kai.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    <category term="开发" scheme="https://blog.lin-kai.top/tags/%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
   <entry>
     <title>吴恩达机器学习</title>
-    <link href="https://link-kai.github.io/2023/06/03/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    <id>https://link-kai.github.io/2023/06/03/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://blog.lin-kai.top/2023/06/03/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blog.lin-kai.top/2023/06/03/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</id>
     <published>2023-06-03T15:00:00.000Z</published>
     <updated>2025-01-26T08:20:11.878Z</updated>
     
@@ -261,17 +261,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="机器学习" scheme="https://link-kai.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://blog.lin-kai.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>SCAU计算智能</title>
-    <link href="https://link-kai.github.io/2023/05/12/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/"/>
-    <id>https://link-kai.github.io/2023/05/12/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/</id>
+    <link href="https://blog.lin-kai.top/2023/05/12/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/"/>
+    <id>https://blog.lin-kai.top/2023/05/12/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/SCAU%E8%AE%A1%E7%AE%97%E6%99%BA%E8%83%BD/</id>
     <published>2023-05-12T07:00:00.000Z</published>
     <updated>2025-01-26T08:40:30.805Z</updated>
     
@@ -282,17 +282,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>cv学习</title>
-    <link href="https://link-kai.github.io/2023/05/02/cv%E5%AD%A6%E4%B9%A0/cv%E5%AD%A6%E4%B9%A0/"/>
-    <id>https://link-kai.github.io/2023/05/02/cv%E5%AD%A6%E4%B9%A0/cv%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://blog.lin-kai.top/2023/05/02/cv%E5%AD%A6%E4%B9%A0/cv%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blog.lin-kai.top/2023/05/02/cv%E5%AD%A6%E4%B9%A0/cv%E5%AD%A6%E4%B9%A0/</id>
     <published>2023-05-02T12:00:00.000Z</published>
     <updated>2025-01-26T08:15:45.846Z</updated>
     
@@ -303,17 +303,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="opencv" scheme="https://link-kai.github.io/tags/opencv/"/>
+    <category term="opencv" scheme="https://blog.lin-kai.top/tags/opencv/"/>
     
   </entry>
   
   <entry>
     <title>任务清单</title>
-    <link href="https://link-kai.github.io/2023/04/28/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/"/>
-    <id>https://link-kai.github.io/2023/04/28/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/</id>
+    <link href="https://blog.lin-kai.top/2023/04/28/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/"/>
+    <id>https://blog.lin-kai.top/2023/04/28/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95/</id>
     <published>2023-04-28T15:00:00.000Z</published>
     <updated>2025-01-26T08:14:34.295Z</updated>
     
@@ -324,17 +324,17 @@
     
     
     
-    <category term="生活" scheme="https://link-kai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.lin-kai.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="任务" scheme="https://link-kai.github.io/tags/%E4%BB%BB%E5%8A%A1/"/>
+    <category term="任务" scheme="https://blog.lin-kai.top/tags/%E4%BB%BB%E5%8A%A1/"/>
     
   </entry>
   
   <entry>
     <title>数据结构</title>
-    <link href="https://link-kai.github.io/2023/03/27/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <id>https://link-kai.github.io/2023/03/27/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <link href="https://blog.lin-kai.top/2023/03/27/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>https://blog.lin-kai.top/2023/03/27/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <published>2023-03-27T02:30:00.000Z</published>
     <updated>2025-01-26T08:13:35.509Z</updated>
     
@@ -345,17 +345,17 @@
     
     
     
-    <category term="学习" scheme="https://link-kai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.lin-kai.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="课程" scheme="https://link-kai.github.io/tags/%E8%AF%BE%E7%A8%8B/"/>
+    <category term="课程" scheme="https://blog.lin-kai.top/tags/%E8%AF%BE%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>第一篇博客</title>
-    <link href="https://link-kai.github.io/2023/03/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://link-kai.github.io/2023/03/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://blog.lin-kai.top/2023/03/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.lin-kai.top/2023/03/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-03-14T16:00:00.000Z</published>
     <updated>2025-01-26T09:24:04.784Z</updated>
     
@@ -366,17 +366,17 @@
     
     
     
-    <category term="生活" scheme="https://link-kai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.lin-kai.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="关于" scheme="https://link-kai.github.io/tags/%E5%85%B3%E4%BA%8E/"/>
+    <category term="关于" scheme="https://blog.lin-kai.top/tags/%E5%85%B3%E4%BA%8E/"/>
     
   </entry>
   
   <entry>
     <title>投喂作者</title>
-    <link href="https://link-kai.github.io/2023/02/04/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/"/>
-    <id>https://link-kai.github.io/2023/02/04/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/</id>
+    <link href="https://blog.lin-kai.top/2023/02/04/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/"/>
+    <id>https://blog.lin-kai.top/2023/02/04/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/</id>
     <published>2023-02-04T11:00:00.000Z</published>
     <updated>2025-05-01T18:03:30.622Z</updated>
     
@@ -387,17 +387,17 @@
     
     
     
-    <category term="生活" scheme="https://link-kai.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.lin-kai.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="投喂作者" scheme="https://link-kai.github.io/tags/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/"/>
+    <category term="投喂作者" scheme="https://blog.lin-kai.top/tags/%E6%8A%95%E5%96%82%E4%BD%9C%E8%80%85/"/>
     
   </entry>
   
   <entry>
     <title>博客开发日志</title>
-    <link href="https://link-kai.github.io/2023/02/01/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
-    <id>https://link-kai.github.io/2023/02/01/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</id>
+    <link href="https://blog.lin-kai.top/2023/02/01/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
+    <id>https://blog.lin-kai.top/2023/02/01/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</id>
     <published>2023-01-31T16:00:00.000Z</published>
     <updated>2025-05-01T09:34:20.006Z</updated>
     
@@ -408,10 +408,10 @@
     
     
     
-    <category term="项目" scheme="https://link-kai.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="项目" scheme="https://blog.lin-kai.top/categories/%E9%A1%B9%E7%9B%AE/"/>
     
     
-    <category term="开发日志" scheme="https://link-kai.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
+    <category term="开发日志" scheme="https://blog.lin-kai.top/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
