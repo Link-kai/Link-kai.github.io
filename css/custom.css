@@ -425,9 +425,9 @@ div#archive {
 }
 /* --------------------------------------
 
-/* 自定义加载动画 */
+/* 加载动画头像 */
 .loading-img {
-  background: url(https://cdn.staticaly.com/gh/Link-kai/picgo@main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220804141141.jpg) no-repeat center center;
+  background: url(https://s2.loli.net/2025/01/26/igqOnebXBWKZSvY.webp) no-repeat center center;
   background-size: cover;
 }
 /* --------------------------------------
